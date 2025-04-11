@@ -1,3 +1,5 @@
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+
 # [Gooyan Policies](#)
 
 **Privacy Policy**
