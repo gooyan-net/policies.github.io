@@ -8,15 +8,14 @@
 body {
     font-family: Arial, sans-serif; /* Use a clean, sans-serif font */
     line-height: 1.6; /* Improve readability */
-    color: #333; /* Dark gray text for better contrast */
+    color: #444746; /* Dark gray text for better contrast */
     background-color: #f9f9f9; /* Light background color */
     padding: 20px; /* Add padding around the body */
 }
 
 /* Header Styles */
 header {
-    background: #007bff; /* Bootstrap primary color */
-    color: white; /* White text */
+    color: #444746;
     padding: 10px 20px; /* Padding for the header */
     text-align: center; /* Center the header text */
 }
@@ -27,7 +26,6 @@ h1 {
 }
 
 h2, h3, h4 {
-    color: #007bff; /* Use the same color as the header for subheadings */
     margin-top: 20px; /* Space above subheadings */
 }
 
