@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy
+---
 **GOOYAN PRIVACY POLICY**
 
 **Effective April 4, 2025**
