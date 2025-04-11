@@ -1,3 +1,5 @@
+# [Gooyan Policies](/)
+
 **GOOYAN PRIVACY POLICY**
 
 **Effective April 4, 2025**
