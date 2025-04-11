@@ -1,3 +1,5 @@
+<link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
+
 # [Gooyan Policies](/)
 
 **GOOYAN TERMS OF SERVICE**
