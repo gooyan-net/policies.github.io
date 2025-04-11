@@ -16,8 +16,8 @@ body {
 /* Header Styles */
 header {
     color: #444746;
-    padding: 10px 20px; /* Padding for the header */
-    text-align: center; /* Center the header text */
+    padding: 10px 0px; /* Padding for the header */
+    text-align: left;
 }
 
 h1 {
