@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms of Service
+permalink: /terms
+---
 **GOOYAN TERMS OF SERVICE**
 
 **Effective April 4, 2025**
