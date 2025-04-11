@@ -5,7 +5,7 @@ Explains what information we collect and why, how we use it, and how to review a
 Read our [Privacy Policy](../privacy.md)
 
 
-**Terms of Service*
+**Terms of Service**
 
 Describes the rules you agree to when using our services.
 
