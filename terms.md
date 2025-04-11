@@ -1,3 +1,5 @@
+# [Gooyan Policies](/)
+
 **GOOYAN TERMS OF SERVICE**
 
 **Effective April 4, 2025**
