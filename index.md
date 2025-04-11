@@ -1,4 +1,4 @@
-<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="icon" href="{{ site.favicon }}" type="image/svg+xml">
 
 # [Gooyan Policies](#)
 
