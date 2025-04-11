@@ -1,0 +1,88 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif; /* Use a clean, sans-serif font */
+    line-height: 1.6; /* Improve readability */
+    color: #333; /* Dark gray text for better contrast */
+    background-color: #f9f9f9; /* Light background color */
+    padding: 20px; /* Add padding around the body */
+}
+
+/* Header Styles */
+header {
+    background: #007bff; /* Bootstrap primary color */
+    color: white; /* White text */
+    padding: 10px 20px; /* Padding for the header */
+    text-align: center; /* Center the header text */
+}
+
+h1 {
+    font-size: 2.5em; /* Large font size for main title */
+    margin-bottom: 10px; /* Space below the title */
+}
+
+h2, h3, h4 {
+    color: #007bff; /* Use the same color as the header for subheadings */
+    margin-top: 20px; /* Space above subheadings */
+}
+
+/* Navigation Styles */
+nav {
+    margin: 20px 0; /* Space around the navigation */
+}
+
+nav ul {
+    list-style: none; /* Remove bullet points */
+    padding: 0; /* Remove padding */
+}
+
+nav ul li {
+    display: inline; /* Display links inline */
+    margin-right: 15px; /* Space between links */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Link color */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+/* Main Content Styles */
+main {
+    background: white; /* White background for main content */
+    padding: 20px; /* Padding inside the main content */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+p {
+    margin-bottom: 15px; /* Space below paragraphs */
+}
+
+code {
+    background: #f4f4f4; /* Light gray background for code */
+    padding: 2px 4px; /* Padding for code */
+    border-radius: 3px; /* Rounded corners for code */
+}
+
+/* List Styles */
+ul, ol {
+    margin-left: 20px; /* Indent lists */
+    margin-bottom: 15px; /* Space below lists */
+}
+
+/* Footer Styles */
+footer {
+    text-align: center; /* Center footer text */
+    margin-top: 20px; /* Space above footer */
+    font-size: 0.9em; /* Slightly smaller font for footer */
+    color: #666; /* Light gray text for footer */
+}
