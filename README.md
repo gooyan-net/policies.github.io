@@ -1,3 +1,5 @@
+# [Gooyan Policies](#)
+
 **Privacy Policy**
 
 Explains what information we collect and why, how we use it, and how to review and update it.
